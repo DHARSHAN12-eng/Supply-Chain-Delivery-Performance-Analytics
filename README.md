@@ -149,10 +149,8 @@ Supply-Chain-Delivery-Performance-Analytics/
 │
 ├── README.md
 ├── requirements.txt
-├── supplychain.csv
 ├── supply_chain_analysis.py
-├── supplychain_cleaned.csv
-│
+|── data/supplychain-compressed.zip
 ├── powerbi/
 │   └── supply_chain.pbix
 │
